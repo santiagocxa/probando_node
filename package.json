@@ -1,0 +1,14 @@
+{
+  "name": "cursos",
+  "version": "1.0.0",
+  "description": "probando node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago santo.113@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
